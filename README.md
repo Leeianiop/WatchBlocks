@@ -53,31 +53,31 @@ So, I lowered it down into a compact watch, well its more of a wrist bracelet th
 **$33.51**
 
 ## Files
-STL files include an extentions folder which are for the speaker extention and rocket launcher extentions.   
-If you want to make your own extention which you definetly should (its the whole purpose of this project) modify (WatchBlocksTemplate)  
-PCB file has 2 pcb inside for the top (left) and bottom layer (right).
+STL files include an extentions folder which are for the speaker extention and rocket launcher extentions.     
+If you want to make your own extention which you definetly should (its the whole purpose of this project) modify (WatchBlocksTemplate)    
+PCB file has 2 pcb inside for the top (left) and bottom layer (right).  
 ![WatchBlocks](Images/WBPCB.png)
-## Where everything goes
-Start by soldering the wires then sliding in the tft.
+## Where everything goes  
+Start by soldering the wires then sliding in the tft.  
 ![WatchBlocks](Images/WBM.png)
-Close the lid & slide both the sliders in
+Close the lid & slide both the sliders in  
 ![WatchBlocks](Images/WBS.png)
-Align with Main Case and Hot glue them with the nuts and screws
+Align with Main Case and Hot glue them with the nuts and screws  
 ![WatchBlocks](Images/WBMS.png)
-IMPORTANT!! solder bottom pcb first (the one with 12 pin headers) Place xiao in (bottom to top), then use perfboard wire to connect them with XIAO, only then insert PCB in
+IMPORTANT!! solder bottom pcb first (the one with 12 pin headers) Place xiao in (bottom to top), then use perfboard wire to connect them with XIAO, only then insert PCB in  
 ![WatchBlocks](Images/WBBPCB.png)
 ![WatchBlocks](Images/XIAO.png)
 ![WatchBlocks](Images/XIAO1.png)
-Now solder the to pcb with the XIAO and place it in, then put on the cover (WatchBlocksSocket)
-![WatchBlocks](Images/WBSO.png)
-Place BBS in this cover, then insert AAA batteries, then connect with VBUS and GND
+Now solder the to pcb with the XIAO and place it in, then put on the cover (WatchBlocksSocket)  
+![WatchBlocks](Images/WBSO.png) 
+Place BBS in this cover, then insert AAA batteries, then connect with VBUS and GND  
 ![WatchBlocks](Images/WBBS.png)
-Fit your RTC module in here and connect directly to the XIAO sharing the same I2C bus
+Fit your RTC module in here and connect directly to the XIAO sharing the same I2C bus  
 ![WatchBlocks](Images/WBRTC.png)
-Close the MAIN Lid, and that's it, really simple !!
+Close the MAIN Lid, and that's it, really simple !!  
 
 ## Schematic
-For those who think the schematic is hard to comprehend, it is just pin headers connected to their corresponding pin of the XIAO, so its like every extention is a XIAO itself. The components work by sharing the same i2c or spi bus also.
+For those who think the schematic is hard to comprehend, it is just pin headers connected to their corresponding pin of the XIAO, so its like every extention is a XIAO itself. The components work by sharing the same i2c or spi bus also.  
 
 ## Make Your Own Extension?
 Just work on the (WatchBlocksTemplate) file but instead of female pin headers make the bottom male pin headers. Then update the code according to your components.
