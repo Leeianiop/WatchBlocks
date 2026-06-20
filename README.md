@@ -66,8 +66,8 @@ Align with Main Case and Hot glue them with the nuts and screws
 ![WatchBlocks](Images/WBMS.png)  
 IMPORTANT!! solder bottom pcb first (the one with 12 pin headers) Place xiao in (bottom to top), then use perfboard wire to connect them with XIAO, only then insert PCB in  
 ![WatchBlocks](Images/WBBPCB.png)  
-![WatchBlocks](Images/XIAO.png)  
-![WatchBlocks](Images/XIAO1.png)  
+![WatchBlocks](Images/WBXIAO.jpeg)  
+![WatchBlocks](Images/WBXIAO1.png)  
 Now solder the to pcb with the XIAO and place it in, then put on the cover (WatchBlocksSocket)  
 ![WatchBlocks](Images/WBSO.png)   
 Place BBS in this cover, then insert AAA batteries, then connect with VBUS and GND  
