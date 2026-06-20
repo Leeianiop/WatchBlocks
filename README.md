@@ -78,6 +78,7 @@ Close the MAIN Lid, and that's it, really simple !!
 
 ## Schematic
 For those who think the schematic is hard to comprehend, it is just pin headers connected to their corresponding pin of the XIAO, so its like every extention is a XIAO itself. The components work by sharing the same i2c or spi bus also.  
+![WatchBlocks](Images/WBSCH.png)  
 
 ## Make Your Own Extension?
 Just work on the (WatchBlocksTemplate) file but instead of female pin headers make the bottom male pin headers. Then update the code according to your components.
