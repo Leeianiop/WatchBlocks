@@ -1,4 +1,4 @@
 # WatchBlocks
 The New Fashion is Customizable
-![WatchBlocks](images/WatchBlocksreadme.png)
+![WatchBlocks](Images/WatchBlocksreadme.png)
 
