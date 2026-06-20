@@ -52,6 +52,11 @@ So, I lowered it down into a compact watch, well its more of a wrist bracelet th
 
 **$33.51**
 
+## Files
+STL files include an extentions folder which are for the speaker extention and rocket launcher extentions.   
+If you want to make your own extention which you definetly should (its the whole purpose of this project) modify (WatchBlocksTemplate)  
+PCB file has 2 pcb inside for the top (left) and bottom layer (right).
 
-### Springs
-- https://www.lazada.com.my/products/pdp-i4206884428-s23838858926.html
+## Where everything goes
+Start by soldering the wires then sliding in the tft.
+Close the lid
