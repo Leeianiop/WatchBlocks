@@ -28,8 +28,7 @@ So, I lowered it down into a compact watch, well its more of a wrist bracelet th
 
 | Component | Description | Qty | Cost |
 |------------|------------|------|------|
-| AAA Battery (x2) | Supply power | 1 | $1.03 |
-| Battery Snap Connector | Battery connection | 2 | $0.28 |
+| Lipo Battery 3.7v | Supply power | 1 | $1.03 |
 | Velcro Strap | Wrist strap | 1 | $3.01 |
 | Velcro Patch | Attach block to strap | 1 | $1.15 |
 
@@ -55,7 +54,15 @@ So, I lowered it down into a compact watch, well its more of a wrist bracelet th
 ## Files
 STL files include an extentions folder which are for the speaker extention and rocket launcher extentions.     
 If you want to make your own extention which you definetly should (its the whole purpose of this project) modify (WatchBlocksTemplate)    
-PCB file has 2 pcb inside for the top (left) and bottom layer (right).  
+PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also has 8 layers, below are all of them separately (Lat layer contains nothing so it's not shown here.
+![WatchBlocks](Images/1.png)  
+![WatchBlocks](Images/2.png)  
+![WatchBlocks](Images/3.png)  
+![WatchBlocks](Images/4.png)  
+![WatchBlocks](Images/5.png)  
+![WatchBlocks](Images/6.png)  
+![WatchBlocks](Images/7.png)  
+![WatchBlocks](Images/3d.png)  
 ![WatchBlocks](Images/WBPCB.png)  
 ## Where everything goes  
 Start by soldering the wires then sliding in the tft.  
