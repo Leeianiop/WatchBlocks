@@ -66,23 +66,23 @@ PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also
 ![WatchBlocks](Images/Layers/3d.png)  
 ![WatchBlocks](Images/WBPCB.png)  
 ## Where everything goes  
-### 1.Start by soldering the wires then sliding in the tft.  
+### 1. Start by soldering the wires then sliding in the tft.  
 ![WatchBlocks](Images/WBM.png)  
-### 2.Close the lid & fit both the sliders in, remember to fit the wires of the tft through the hole and into the main case.
+### 2. Close the lid & fit both the sliders in, remember to fit the wires of the tft through the hole and into the main case.
 ![WatchBlocks](Images/WBS.png)  
-### 3.Align with Main Case and Hot glue them with the nuts and screws  
+### 3. Align with Main Case and Hot glue them with the nuts and screws  
 ![WatchBlocks](Images/WBMS.png)  
-### 4.IMPORTANT!! solder bottom pcb first (the one with 12 pin headers) Place xiao in (bottom to top), then use perfboard wire to connect them with XIAO, only then insert PCB in  
+### 4. IMPORTANT!! solder bottom pcb first (the one with 12 pin headers) Place xiao in (bottom to top), then use perfboard wire to connect them with XIAO, only then insert PCB in  
 ![WatchBlocks](Images/WBBPCB.png)  
 ![WatchBlocks](Images/WBXIAO.jpeg)  
 ![WatchBlocks](Images/WBXIAO1.png)  
-### 5.Now solder the to pcb with the XIAO and place it in, then put on the cover (WatchBlocksSocket)  
+### 5. Now solder the to pcb with the XIAO and place it in, then put on the cover (WatchBlocksSocket)  
 ![WatchBlocks](Images/WBSO.png)   
-### 6.Place Lipo battery in this cover, then connect with VBUS and GND to the pin headers
+### 6. Place Lipo battery in this cover, then connect with VBUS and GND to the pin headers
 ![WatchBlocks](Images/WBBS.png)  
-### 7.Fit your RTC module in here and connect directly to the XIAO sharing the same I2C bus  
+### 7. Fit your RTC module in here and connect directly to the XIAO sharing the same I2C bus  
 ![WatchBlocks](Images/WBRTC.png)  
-### 8.Close the MAIN Lid, and that's it, really simple !!  
+### 8. Close the MAIN Lid, and that's it, really simple !!  
 ![WatchBlocks](Images/WBML.png)  
 ## Final assembly below (Including PCB):  
 ![WatchBlocks](Images/FinalAssembly/FAM.png)  
