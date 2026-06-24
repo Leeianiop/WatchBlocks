@@ -87,6 +87,7 @@ PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also
 ## Final assembly below (Including PCB):  
 ![WatchBlocks](Images/FinalAssembly/FAM.png)  
 ![WatchBlocks](Images/FinalAssembly/FAMS.png)  
+# Battery Extention:  
 ![WatchBlocks](Images/FinalAssembly/FAB.png)  
 ![WatchBlocks](Images/FinalAssembly/FABC.png) 
 
