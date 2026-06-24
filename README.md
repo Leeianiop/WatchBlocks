@@ -54,7 +54,7 @@ So, I lowered it down into a compact watch, well its more of a wrist bracelet th
 ## Files
 STL files include an extentions folder which are for the speaker extention and rocket launcher extentions.     
 If you want to make your own extention which you definetly should (its the whole purpose of this project) modify (WatchBlocksTemplate)    
-PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also has 8 layers, below are all of them separately (Last layer contains nothing)
+PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also has 8 layers, below are all of them separately (Last layer contains nothing)  
 ![WatchBlocks](Images/Layers/1.png)  
 ![WatchBlocks](Images/Layers/2.png)  
 ![WatchBlocks](Images/Layers/3.png)  
