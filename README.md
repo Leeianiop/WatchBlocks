@@ -78,13 +78,21 @@ PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also
 ![WatchBlocks](Images/WBXIAO1.png)  
 ### 5.Now solder the to pcb with the XIAO and place it in, then put on the cover (WatchBlocksSocket)  
 ![WatchBlocks](Images/WBSO.png)   
-### 6.Place Lipo battery in this cover, then connect with VBUS and GND  
+### 6.Place Lipo battery in this cover, then connect with VBUS and GND to the pin headers
 ![WatchBlocks](Images/WBBS.png)  
 ### 7.Fit your RTC module in here and connect directly to the XIAO sharing the same I2C bus  
 ![WatchBlocks](Images/WBRTC.png)  
 ### 8.Close the MAIN Lid, and that's it, really simple !!  
 ![WatchBlocks](Images/WBML.png)
+Final assembly below (Including PCB):
 
+## Extentions
+For the servo extension, get springs and hot glue them down, it's the only way to keep them locked in place,   
+Screw on the hinge to the servo then mount the servo.  
+Also install 4x1x7 pin headers at the bottom and connect with the servo according to the schematic  
+Final assembly below:
+For the speaker just slot it in and solder to pin headers according to the schematic. 
+Final Assembly below:
 ## Schematic
 For those who think the schematic is hard to comprehend, it is just pin headers connected to their corresponding pin of the XIAO, so its like every extention is a XIAO itself. The components work by sharing the same i2c or spi bus also.  
 ![WatchBlocks](Images/WBSCH.png)  
