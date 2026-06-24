@@ -83,16 +83,24 @@ PCB file has 2 pcb inside for the top (left) and bottom layer (right).  PCB also
 ### 7.Fit your RTC module in here and connect directly to the XIAO sharing the same I2C bus  
 ![WatchBlocks](Images/WBRTC.png)  
 ### 8.Close the MAIN Lid, and that's it, really simple !!  
-![WatchBlocks](Images/WBML.png)
-Final assembly below (Including PCB):
+![WatchBlocks](Images/WBML.png)  
+## Final assembly below (Including PCB):  
+![WatchBlocks](Images/FinalAssembly/FAM.png)  
+![WatchBlocks](Images/FinalAssembly/FAMS.png)  
+![WatchBlocks](Images/FinalAssembly/FAB.png)  
+![WatchBlocks](Images/FinalAssembly/FABC.png) 
 
 ## Extentions
 For the servo extension, get springs and hot glue them down, it's the only way to keep them locked in place,   
 Screw on the hinge to the servo then mount the servo.  
 Also install 4x1x7 pin headers at the bottom and connect with the servo according to the schematic  
-Final assembly below:
+### Final assembly below:  
+![WatchBlocks](Images/FinalAssembly/FASP.png)    
+![WatchBlocks](Images/FinalAssembly/FASPB.png)   
 For the speaker just slot it in and solder to pin headers according to the schematic. 
-Final Assembly below:
+### Final Assembly below:  
+![WatchBlocks](Images/FinalAssembly/FAS.png)    
+![WatchBlocks](Images/FinalAssembly/FASB.png)   
 ## Schematic
 For those who think the schematic is hard to comprehend, it is just pin headers connected to their corresponding pin of the XIAO, so its like every extention is a XIAO itself. The components work by sharing the same i2c or spi bus also.  
 ![WatchBlocks](Images/WBSCH.png)  
