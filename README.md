@@ -110,6 +110,6 @@ For those who think the schematic is hard to comprehend, it is just pin headers 
 Just work on the (WatchBlocksTemplate) file but instead of female pin headers make the bottom male pin headers. Then update the code according to your components.
 
 ## Notes
-Hope you like and enjoy this project as much as I do, 31 hours logged :)
+Hope you like and enjoy this project as much as I do, 36 hours logged :)
 
 
