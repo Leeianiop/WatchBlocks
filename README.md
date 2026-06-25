@@ -59,11 +59,7 @@ PCB "+" Sign also indicates the way you should place the PCB, so make sure bot "
 ![WatchBlocks](Images/Layers/1.png)  
 ![WatchBlocks](Images/Layers/2.png)  
 ![WatchBlocks](Images/Layers/3.png)  
-![WatchBlocks](Images/Layers/4.png)  
-![WatchBlocks](Images/Layers/5.png)  
-![WatchBlocks](Images/Layers/6.png)  
-![WatchBlocks](Images/Layers/7.png)  
-![WatchBlocks](Images/Layers/8.png)  
+![WatchBlocks](Images/Layers/4.png)   
 ![WatchBlocks](Images/Layers/3d.png)  
 ![WatchBlocks](Images/WBPCB.png)  
 ## Where everything goes  
