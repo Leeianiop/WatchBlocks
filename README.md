@@ -1,6 +1,6 @@
 # WatchBlocks
 The New Fashion is Customizable  
-![WatchBlocks](Images/ZINE.png)
+![WatchBlocks](Images/WBZ.png)
 
 ## Inspired by the legendary "PhoneBlocks"  
 A watch that can be added on extensions.
