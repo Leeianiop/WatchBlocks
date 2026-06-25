@@ -45,11 +45,16 @@ So, I lowered it down into a compact watch, well its more of a wrist bracelet th
 | Servo Motor | Launch mechanism | 1 | $1.54 |
 | Springs | Hold and launch rockets | 1 | $0.76 |
 
----
+## PCB 4 layers
+
+| Component | Description | Qty | Cost |
+|------------|------------|------|------|
+| Top PCB | Get Quote on JLCPCB | 1 | $7 |
+| Bottom PCB | Get Quote on JLCPCB | 1 | $7 |
 
 # Total Cost
 
-**$33.51**
+**$47.23**
 
 ## Files
 STL files include an extentions folder which are for the speaker extention and rocket launcher extentions.     
